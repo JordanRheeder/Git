@@ -11,7 +11,7 @@ How to create a new project do the following:
 - Navigate through the terminal to your folders or use VSCode terminal then type: "git init" when you're inside the folder.
 [url=https://postimg.cc/mPFxf4Cs][img]https://i.postimg.cc/mPFxf4Cs/Stages-of-git.png[/img][/url]
 [Stages-of-git.png](https://postimg.cc/mPFxf4Cs)
-
+https://i.postimg.cc/t4B96CgY/Stages-of-git.png
 How to check for changes in the git repo:
 $ git status
 *This will return all the files and folders that have been changed (usually in red)
