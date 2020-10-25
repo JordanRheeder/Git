@@ -3,6 +3,7 @@
 https://learngitbranching.js.org/
 
 How to initialise a Git repository:
+
 $ git init
 
 *You must have git installed on your system.
@@ -24,7 +25,9 @@ $ git status
 How to stage your work is by doing the following:
 
 $ git add ./
+
 $ git commit -m "insert useful message"
+
 $ git push
 
 Creating branches:
@@ -32,6 +35,7 @@ git checkout -b <branch name>
 i.e: git checkout -b <option WIP>WP|Ticket number/name|what you're working on
 
 Check what branch you're on:
+
 $ git branch
 
 Best practice:
@@ -39,8 +43,11 @@ Best practice:
 Pull master before you work on a new piece of code to avoid merge conflicts.
 so do the following:
 
+
 $ git branch
+
 $ master
+
 $ br-1* 
 
 * *indicates that you're on that branch*
